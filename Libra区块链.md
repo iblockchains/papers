@@ -2,7 +2,7 @@
 <h4>`概述`.</h4>
 <h5>Libra 区块链是一个去中心化,可编程的数据库,用于支撑一个弱不稳定性的加密货币,做为一个有效的<font color="green">流通手段</font>,它能服务全球数以十亿计的用户.</h5>
 
-<font face="宋体">宋体</font>
+==宋体==
 <font face="黑体" color=red>红色黑体</font>
 <font face="黑体" color=red size=7>7号红色黑体</font>
 <span style="color:red;">这是比font标签更好的方式。可以试试。</span>
