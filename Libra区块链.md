@@ -6,3 +6,4 @@
 <font face="黑体" color=red>红色黑体</font>
 <font face="黑体" color=red size=7>7号红色黑体</font>
 <span style="color:red;">这是比font标签更好的方式。可以试试。</span>
+<h1 style="color:red;">color</h1>
