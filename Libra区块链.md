@@ -16,4 +16,4 @@ Libra区块链将是去中心化的，由一系列 ***验证节点*** 组成，�
 
 Libra区块链是使用Libra协议维护的加密 ***验证*** 的数据库。数据库存储的是 ***可编程*** 资源的本，例如Libra币。资源 ***所有权*** 属于使用公钥密码学认证的账户。
 
-[Libra-protocol](./img/001-overview-of-the-Libra-protocol.png)
+<img src="https://github.com/iblockchains/papers/blob/master/img/001-overview-of-the-Libra-protocol.png">
