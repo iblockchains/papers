@@ -31,7 +31,9 @@ Libra区块链是使用Libra协议维护的加密 ***验证*** 的数据库。�
 
 ### 2 逻辑数据模型 Logical Data Model
 
-Libra区块链中的所有数据都存储在一个版本化的数据库中。
+Libra区块链中的所有数据都存储在一个 ***版本化*** 的数据库中。
+
+#### 2.1 账本状态 Ledger State
 
 ### Executing Transactions
 
