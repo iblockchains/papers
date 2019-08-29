@@ -35,6 +35,9 @@ Libra区块链中的所有数据都存储在一个 ***版本化*** 的数据库�
 
 #### 2.1 账本状态 Ledger State
 
+账本状态代表了Libra系统的真实有效值，
+
+
 ### Executing Transactions
 
 ### Authenticated Data Structures and Storage
